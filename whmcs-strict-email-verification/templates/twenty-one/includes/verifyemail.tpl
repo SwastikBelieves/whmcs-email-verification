@@ -10,7 +10,7 @@
                 </div>
                 <div class="col-10 col-sm-7 col-md-8 order-1">
                     <img width="48" height="48" src="https://img.icons8.com/fluency/48/high-risk--v1.png" alt="high-risk--v1"/>
-                    <span class="text" style="font-size:18px; font-weight:bold;"></span>
+                    <span class="text" style="font-size:18px; font-weight:bold;"> As per our policy, all accounts must have a verified email to continue using our services. Verify your email address at first using the button below :</span>
                 </div>
             </div>
             <div class="row">
