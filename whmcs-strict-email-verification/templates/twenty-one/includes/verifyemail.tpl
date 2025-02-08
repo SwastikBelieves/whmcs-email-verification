@@ -10,7 +10,7 @@
                 </div>
                 <div class="col-10 col-sm-7 col-md-8 order-1">
                     <img width="48" height="48" src="https://img.icons8.com/fluency/48/high-risk--v1.png" alt="high-risk--v1"/>
-                    <span class="text" style="font-size:18px; font-weight:bold;"> As per our policy, all accounts must have a verified email to continue using our services. Verify your email address at first using the button below :</span>
+                    <span class="text" style="font-size:18px; font-weight:bold;"> As per our policy, all accounts must have a verified email to continue using our services. Verify your email address <i>"{$client['email']}"</i> at first using the button below :</span>
                 </div>
             </div>
             <div class="row">
@@ -21,7 +21,7 @@
                     </button>
                 </div>
             </div>
-            <span class="text" style="font-size:18px; font-weight:bold; color: white; margin-top:15px;">If you haven't receive any email from us, check your SPAM folder too :)</span>
+            <span class="text" style="font-size:18px; font-weight:bold; color: white; margin-top:15px;">If you have not received the verification email, please re-check the spelling or check your spam folder once.</span>
         </div>
     </div>
 {/if}
