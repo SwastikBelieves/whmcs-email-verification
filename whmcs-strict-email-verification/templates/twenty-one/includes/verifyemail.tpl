@@ -21,6 +21,7 @@
                     </button>
                 </div>
             </div>
+            <span class="text" style="font-size:18px; font-weight:bold; color: white; margin-top:15px;">If you haven't receive any email from us, check your SPAM folder too :)</span>
         </div>
     </div>
 {/if}
